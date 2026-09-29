@@ -2,10 +2,10 @@
 
 # Hi there, I'm HexWarp 👋
 
-I am a self-taught junior security researcher and software developer focusing on network analysis, scripting automation, and low-level development.
+I am a self-taught junior security researcher focusing on network analysis, scripting automation, and low-level development.
 
 ## 💻 Tech Stack & Tooling
-* **Languages:** Python (Socket programming), Bash, and C++.
+* **Languages:** Python (Socket programming) and Bash.
 * **Tooling:** Intercepting traffic with Caido and native Windows/Linux environments.
 
 ---
